@@ -1,0 +1,27 @@
+.home-container {
+    background-color: black;
+    padding: 20px;
+  }
+  
+  .book-list {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .book-item {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .book-item div {
+    background-color: white; 
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .book-item img {
+    width: 100px;
+    height: 150px;
+  }
+  
